@@ -1,0 +1,5 @@
+---Student Management System---
+The available courses are BSCS MBBS 
+The instructors are : ALI AWAIS 
+The new students are : TAHA TALHA 
+
